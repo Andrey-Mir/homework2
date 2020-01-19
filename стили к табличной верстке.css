@@ -1,0 +1,10 @@
+table {
+    margin:auto;  
+    background-color: blue;
+    }
+    td{
+    border:3px solid black; 
+    text-align:center; 
+    vertical-align:top; 
+    background-color: green;
+    }

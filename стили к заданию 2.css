@@ -1,0 +1,30 @@
+body {
+    background: white;
+}
+#conteiner {
+    width: 600px;
+    height: 600px;
+    background: rgb(238, 130, 130);
+    padding: 5px; 
+    border: 5px solid black;
+}
+#block1 {
+    background: green;
+    width: 400px;
+    height: 400px;
+}
+
+#block2 {
+    background: blue;
+    width: 400px;
+    height: 400px;
+float: right;
+position: absolute; left: 210px; top: 210px;
+}
+
+#block3 {
+    width: 400px;
+    height: 400px;
+    background: brown;
+    position: absolute; left: 110px; top: 110px;
+}
